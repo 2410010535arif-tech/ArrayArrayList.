@@ -5,7 +5,7 @@ public class Mahasiswa {
     private String npm;
     private double nilai;
 
-    public Mahasiswa(String nama, String npm, double nilai) {
+    public Mahasiswa(String nama, String npm, double nilai)  {
         this.nama = nama;
         this.npm = npm;
         this.nilai = nilai;
